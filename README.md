@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ```
 ├── pages
-│   ├── \_app.js
+│   ├── _app.js
 │   └── index.js
 └── store
 ├── actions
