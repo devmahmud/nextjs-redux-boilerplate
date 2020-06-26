@@ -14,6 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Project Structure
 
+```
 ├── pages
 │   ├── \_app.js
 │   └── index.js
@@ -25,3 +26,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 │   └── postReducer.js
 ├── store.js
 └── types.js
+```
