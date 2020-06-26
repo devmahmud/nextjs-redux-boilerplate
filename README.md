@@ -19,11 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 │   ├── _app.js
 │   └── index.js
 └── store
-├── actions
-│   └── postAction.js
-├── reducers
-│   ├── index.js
-│   └── postReducer.js
-├── store.js
-└── types.js
+    ├── actions
+    │   └── postAction.js
+    ├── reducers
+    │   ├── index.js
+    │   └── postReducer.js
+    ├── store.js
+    └── types.js
 ```
